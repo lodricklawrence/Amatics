@@ -27,7 +27,7 @@ in reducing number of repeatedly lines of codes.
 1. Install Git as a version controller.
 2. Copy the project repository directory URL from here.
 3. Go to the directory in your computer where you want the cloned project to be placed.
-4. Open the command line and run git clone <paste the URL> then run.
+4. Open the command line and run git clone [paste the URL] then run.
 5. The project files are ready set in your local computer at that specific directory.
 
 # How to use the project
