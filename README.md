@@ -3,7 +3,7 @@
 # Description
 
 ### Project origin
-Amatics Technologies Website is a frontend project which i performed as one of the task given by my industrial supervisor at my Industrial Practical Training serving time at Amatics Technologies Company ltd.
+Amatics Technologies Website is a frontend project which i performed as one of the project given by my senior supervisors at Amatics Technologies Company ltd.
 
 ### What it can do
 In this project a user can navigate through different pages in the Amatics website and view many different services that are provided by the Amatics Technologies company,
